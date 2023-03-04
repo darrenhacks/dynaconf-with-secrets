@@ -1,0 +1,8 @@
+development:
+  secret: "ENC(gAAAAABjRffL_PI2PvJh42r5XBgciXoXI7PdOgtMHGty7lh4QNh7jC7AhpGhPiJT6xML67wxKzwOO1hIm3mJ-TNFWSIj5w2v1I0DTlqW-oj56Jj5Lsz8Ls4=)"
+  app:
+    property: "test"
+production:
+  secret: "ENC(gAAAAABjRffrjAgHqjLqGAKKJEzKBZwGdrQvHrJunb8uiL4NmH6bE3DgzqVpuBXh9lkdKzn7EzYZsptA1RvHlWZaUkjUd1rX2usAYZYI01C1kLbYblJ6kS0=)"
+  app:
+    property: "not test"
